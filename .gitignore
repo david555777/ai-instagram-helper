@@ -1,0 +1,72 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# VSCode
+.vscode/
+
+# JetBrains (PyCharm, WebStorm и т.д.)
+.idea/
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+
+# System
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Others
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+
+# VirtualBox
+.VirtualBox/
+
+# Android/Java
+.gradle/
+build/
+*.iml
+*.apk
+
+# AI/ML
+*.ckpt
+*.h5
+*.pth
+*.pt
+runs/
+
+# Personal files
+*.csv
+*.db
+*.sqlite3
+*.sqlite
