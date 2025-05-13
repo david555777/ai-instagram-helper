@@ -39,6 +39,13 @@ git remote add origin https://github.com/david555777/ai-instagram-helper.git
 
 
 
+
 git push -u origin main
 3. Проверьте репозиторий
 Перейдите в ваш репозиторий на GitHub. Теперь файлы проекта должны быть загружены.
+
+
+Запустите npm run dev и проверьте
+
+
+после изминений локально npm install
